@@ -15,7 +15,7 @@
  * @wordpress-plugin
  * Plugin Name:       Working Man
  * Plugin URI:        https://github.com/npeay/wp-working-man
- * Description:       This is a short description of what the plugin does. It's displayed in the WordPress admin area.
+ * Description:       Custom settings for Wordpress, including basic admin customizations, privacy and images settings.
  * Version:           1.0.0
  * Author:            Nick Peay
  * Author URI:        http://thejumpagency.com
